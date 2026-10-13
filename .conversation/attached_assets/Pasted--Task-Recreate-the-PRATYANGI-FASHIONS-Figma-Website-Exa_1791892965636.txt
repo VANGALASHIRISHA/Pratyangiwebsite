@@ -1,0 +1,94 @@
+# Task: Recreate the PRATYANGI FASHIONS Figma Website Exactly
+
+**Figma Reference:**  
+https://www.figma.com/proto/MJcZGp2xSmXAWRHCsGAQe2/PRATYANGI-FASHIONS--Copy-?node-id=1112-16786&starting-point-node-id=1032%3A9564
+
+## Main Objective
+Analyze the complete Figma prototype and recreate the website as closely as possible to the original design. I want the same UI, layout, animations, interactions, transitions, images, typography, colors, spacing, and overall user experience.
+
+Do not create a generic fashion website. Use the provided Figma prototype as the primary reference.
+
+### 1. Analyze the Complete Figma Design
+- Inspect all available Figma frames, pages, sections, and prototype connections.
+- Identify the complete page structure, header, navigation, hero section, banners, product sections, cards, footer, and other visible components.
+- Inspect every available interaction, including hover effects, click actions, scrolling behavior, overlays, menus, and transitions.
+- Reproduce the original design dimensions, alignment, margins, padding, font sizes, image proportions, and color palette.
+- Use the provided Figma URL to inspect the design. If the prototype cannot be accessed, ask me for screenshots, exported assets, or a Figma file instead of guessing.
+
+### 2. Reproduce All Animations
+Implement the animations and transitions shown in the Figma prototype, including any applicable:
+- Page-load animations and entrance effects.
+- Smooth scrolling and section transitions.
+- Image reveal effects and image zoom animations.
+- Product card hover animations.
+- Text reveal, fade-in, slide-in, and staggered animations.
+- Navigation menu and dropdown transitions.
+- Sliders, carousels, banners, and interactive elements.
+- Button hover, click, and active states.
+- Sticky header behavior and scroll-triggered animations.
+- Modal, drawer, and mobile menu transitions.
+
+Match the original animation direction, duration, delay, easing, and trigger as closely as possible. Do not add animations that are not present in the reference.
+
+### 3. Match the UI Exactly
+- Reproduce the original header, logo placement, navigation, typography, background colors, borders, shadows, and spacing.
+- Use the original images and assets wherever available.
+- Maintain the same section order, content hierarchy, image crops, and proportions.
+- Match the design at the exact reference viewport before adapting it to other screen sizes.
+- Do not replace original design elements with generic icons, stock images, or unrelated components.
+- Avoid unnecessary redesigns, additional sections, and visual changes.
+
+### 4. Make the Entire Website Responsive
+Ensure the website works correctly on:
+- Desktop computers.
+- Laptops.
+- Tablets.
+- Android phones.
+- iPhones.
+
+Preserve the original visual design while adapting layouts, images, navigation, spacing, typography, and animations to smaller screens. Prevent horizontal overflow, broken layouts, overlapping text, and distorted images.
+
+### 5. Implement All Interactions
+Every interactive element must work correctly:
+- Navigation links must open the correct sections or pages.
+- Buttons must perform their intended actions.
+- Product cards and images must behave as shown in the prototype.
+- Sliders and carousels must work.
+- Menus must open and close correctly.
+- Scroll-based effects must trigger at the appropriate positions.
+- Mobile navigation must work with touch interactions.
+- Links must not point to placeholder destinations unless the destination is genuinely unavailable.
+
+Do not create visual-only buttons that do nothing.
+
+### 6. Development Requirements
+- First inspect my existing project structure and identify the current framework, dependencies, routes, components, and assets.
+- Reuse the existing project and technology stack wherever possible.
+- Do not unnecessarily replace working code or rebuild the entire project from scratch.
+- Create reusable, maintainable components for repeated UI elements.
+- Use CSS transitions, keyframes, Intersection Observer, or an appropriate animation library only where necessary to reproduce the reference.
+- If the project uses React, maintain the existing React architecture.
+- Optimize image loading, animation performance, and rendering.
+- Respect accessibility preferences such as reduced motion and ensure keyboard navigation works.
+
+### 7. Testing and Quality Check
+After implementation:
+- Compare the website with the Figma prototype section by section.
+- Check the initial viewport, scrolling behavior, and every available interaction.
+- Verify animation timing, image positioning, fonts, spacing, and responsive layouts.
+- Test all pages and links.
+- Fix console errors, broken assets, layout shifts, and animation glitches.
+- Run the existing build and resolve any errors.
+
+### 8. Strict Instructions
+- Do not stop after creating only the hero section.
+- Implement the complete website represented by the accessible prototype.
+- Do not simplify or skip animations.
+- Do not change the design according to your own preferences.
+- Do not remove existing working functionality.
+- Do not claim pixel-perfect accuracy without comparing the actual implementation against the reference.
+- If a specific animation, frame, asset, or interaction cannot be inspected, clearly identify what is missing instead of inventing it.
+
+**Final Deliverable:** A complete, responsive, production-ready website that closely matches the PRATYANGI FASHIONS Figma prototype in design, animation, interactions, and behavior.
+
+First analyze the reference and my existing project. Then implement the website systematically, section by section, and verify the result before finishing.

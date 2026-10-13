@@ -1,0 +1,30 @@
+**Prompt: Exact Figma Website Replication**
+
+Replicate the complete PRATYANGI FASHIONS website exactly as shown in this Figma prototype:
+
+https://www.figma.com/proto/MJcZGp2xSmXAWRHCsGAQe2/PRATYANGI-FASHIONS--Copy-?node-id=1112-16786&starting-point-node-id=1032%3A9564
+
+**Requirements:**
+
+1. Recreate the entire website, including every page, section, header, footer, banner, product card, image, and navigation element.
+2. Replicate all animations exactly, including page-load effects, scroll animations, image transitions, hover effects, sliders, carousels, sticky headers, dropdowns, and menu transitions wherever present in the reference.
+3. Match the original colors, fonts, typography, spacing, dimensions, alignment, image sizes, borders, shadows, and layouts as closely as possible.
+4. Reproduce all prototype interactions, click behaviors, transitions, and navigation functionality.
+5. Make the complete website responsive across desktop, laptop, tablet, Android, and iPhone screens.
+6. Use original Figma assets, images, fonts, and icons wherever available. Do not substitute unrelated images or generic designs.
+7. Inspect my existing project and preserve its framework, working functionality, dependencies, and code structure. Modify only what is necessary.
+8. Ensure all buttons, links, menus, sliders, and interactive components work correctly.
+9. Optimize performance, image loading, animations, and mobile responsiveness. Fix console errors and build errors.
+10. Compare the finished implementation against the Figma reference section by section and correct visual differences.
+
+**Strict instructions:**
+- Do not redesign, simplify, or create your own interpretation of the website.
+- Do not implement only the homepage hero section; complete the entire accessible design.
+- Do not skip animations or interactive elements.
+- Do not remove existing functionality.
+- Do not use placeholder content or images when original assets are available.
+- If the Figma design or any interaction cannot be accessed, clearly identify the missing information instead of guessing.
+
+**Workflow:** First inspect the Figma prototype and existing project. Next, identify all required pages, assets, animations, and interactions. Then implement the complete website in stages and test each section.
+
+**Final goal:** Deliver a fully functional, responsive website that visually and behaviorally replicates the original PRATYANGI FASHIONS Figma prototype as closely as possible.

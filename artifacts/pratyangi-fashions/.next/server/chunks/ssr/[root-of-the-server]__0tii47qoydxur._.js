@@ -1,0 +1,3 @@
+module.exports=[[31502,a=>{var b=a.i(70699);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"Pratyangi Fashions | Tradition Meets Elegance",description:"Discover heirloom Indian sarees, festive wear, and timeless occasion dressing at Pratyangi Fashions."}])},25105,(a,b,c)=>{b.exports=a.r(18622)},70699,(a,b,c)=>{b.exports=a.r(25105).vendored["react-rsc"].ReactJsxRuntime}],18622,(a,b,c)=>{b.exports=a.x("next/dist/compiled/next-server/app-page-turbo.runtime.prod.js",()=>require("next/dist/compiled/next-server/app-page-turbo.runtime.prod.js"))},68804,function(a){a.n(a.i(31502))}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__0tii47qoydxur._.js.map

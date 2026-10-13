@@ -1,0 +1,13 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0fq61zgaz5su_._.js")
+R.c("server/chunks/ssr/0o91_next_dist_esm_build_templates_app-page_1gcl1-pfba0wi.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1o-96txkg0kpj._.js")
+R.c("server/chunks/ssr/0o91_next_dist_0t-mb_ohlc0ik._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0tii47qoydxur._.js")
+R.c("server/chunks/ssr/0o91_next_dist_client_components_06ambjo0s43o3._.js")
+R.c("server/chunks/ssr/0o91_next_dist_client_components_builtin_forbidden_1sd77o_b9fpz0.js")
+R.c("server/chunks/ssr/0o91_next_dist_client_components_builtin_unauthorized_1lpy8m82e8o5t.js")
+R.c("server/chunks/ssr/0o91_next_dist_20g8dsait2pt4._.js")
+R.c("server/chunks/ssr/1xr3_pratyangi-fashions__next-internal_server_app_page_actions_20rjygfknht2w.js")
+R.m(63952)
+module.exports=R.m(63952).exports

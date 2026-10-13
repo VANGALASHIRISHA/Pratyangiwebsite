@@ -1,6 +1,6 @@
-# [Project name]
+# Pratyangi Fashions
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A responsive storefront recreation for Pratyangi Fashions, based on the supplied Figma prototype and screen recording.
 
 ## Run & Operate
 
@@ -14,11 +14,27 @@ _Replace the heading above with the project's name, and this line with one sente
 ## Stack
 
 - pnpm workspaces, Node.js 24, TypeScript 5.9
+- Storefront: Next.js App Router, React, TypeScript, CSS Modules, global CSS variables, Framer Motion, Lucide React
+- Current phase: frontend only; demo persistence may use browser `localStorage`
+- Later phase: PHP/MySQL APIs, authentication, orders, and payments only after hosting compatibility is confirmed
 - API: Express 5
 - DB: PostgreSQL + Drizzle ORM
 - Validation: Zod (`zod/v4`), `drizzle-zod`
 - API codegen: Orval (from OpenAPI spec)
 - Build: esbuild (CJS bundle)
+
+## Product
+
+- Recreate the Pratyangi Fashions storefront shown in the provided Figma reference and screen recording.
+- Keep Next.js; do not replace it with Vite.
+- The initial scope is the accessible frontend design, responsive layout, animations, carousels, and interactive components. Do not add backend, authentication, ordering, or payment flows in this phase.
+- Static-export deployment is the initial approach, subject to confirming hosting compatibility.
+
+## Architecture decisions
+
+- The storefront uses Next.js App Router, TypeScript, CSS Modules, global CSS variables, Framer Motion, and Lucide React, as requested.
+- Treat the supplied Figma prototype as the design source of truth. If an interaction, page, asset, or section is not visible in the accessible reference, identify the gap rather than inventing it.
+- Keep demo-only persistence local to the browser until the later backend phase is explicitly started.
 
 ## Where things live
 
